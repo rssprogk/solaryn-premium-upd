@@ -1,2 +1,9 @@
 # New update V1.0
 + Released V1.0
+
+# New Update V1.1
++ fixed auto rush not working
++ fixed curve prediction
++ fixed when clicking status bar does not toggle the GUI
++ Added Update Checker
++ Improved GUI
