@@ -11,3 +11,25 @@
 # VERSION 1.2
 + Revamped GUI
 + Fixed Auto Diving the wrong way
+
+# Pre-release V1.2
++ GK tab: Auto Dive, Auto Position, Auto Rush, ESP
++ Player tab: Auto Shoot, Auto Deke, Auto Q, Gravity Comp, Curve Shot (beta)
++ Settings tab: All toggles, keybinds, reset button, notices
++ Tracks ball Z position while ball is held or loose
++ Has its own update rate slider (default 0.05s)
++ Look-At Ball toggle (faces the ball while positioning)
++ Uses Q / E / X intelligently depending on where the ball is relative to your GK
++ Auto Shoot with 7 shot types (Low, High, Top Bins, Near Post, etc.)
++ Shot Power slider (now shows “x1.5” format)
++ Gravity Compensation for long-range shots
++ Auto Q (spams Q when you receive the ball)
++ Dive Angle Correction (beta) – rotates you to face the shot before diving
++ Anti-Chip Detection (beta) – auto-jumps on high lobs
++ Goal-post Z bounds clamping (prevents sliding past the posts)
++ F12 stealth mode (hides main GUI but keeps the tiny status dot in the top left)
++ Reflex slider now defaults to 0.150 instead of 0.0
++ Preset buttons now properly save
++ Tab scroll position resets when switching tabs
++ Premium badge no longer overlaps close button
++ Mobile close button has better touch target
