@@ -17,3 +17,10 @@
 + Player tab: Auto Shoot, Auto Deke, Auto Q, Gravity Comp, Curve Shot (beta)
 + Settings tab: All toggles, keybinds, reset button, notices
 + Tracks ball Z position while ball is held or loose
+
+# New Version V1.2.1
++ GK
+• Fixed Auto Rush/Auto Positioning
++ Player
+• Auto Shoot — removed “High” shot type (use Top Bins)
+• Ball Magnet range 0–12 studs
